@@ -1,0 +1,6 @@
+C:\Users\Vital\source\repos\Лабораторная работа №3\Лабораторная работа №3\obj\Debug\Лабораторная работа №3.csproj.CoreCompileInputs.cache
+C:\Users\Vital\source\repos\Лабораторная работа №3\Лабораторная работа №3\bin\Debug\Лабораторная работа №3.exe.config
+C:\Users\Vital\source\repos\Лабораторная работа №3\Лабораторная работа №3\bin\Debug\Лабораторная работа №3.exe
+C:\Users\Vital\source\repos\Лабораторная работа №3\Лабораторная работа №3\bin\Debug\Лабораторная работа №3.pdb
+C:\Users\Vital\source\repos\Лабораторная работа №3\Лабораторная работа №3\obj\Debug\Лабораторная работа №3.exe
+C:\Users\Vital\source\repos\Лабораторная работа №3\Лабораторная работа №3\obj\Debug\Лабораторная работа №3.pdb
